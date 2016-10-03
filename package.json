@@ -1,0 +1,14 @@
+{
+  "name": "sz",
+  "version": "1.0.0",
+  "description": "Simple implementation of page object model using  ####WebdriverIO  ####mocha ####chai",
+  "main": "wdio.conf.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
